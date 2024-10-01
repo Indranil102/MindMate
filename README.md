@@ -14,3 +14,4 @@
 
 ## Project Structure
 
+/mindmate │ ├── /public │ ├── index.html # Main HTML file │ └── assets/ # Images, icons, and other static resources │ ├── /src │ ├── components/ # React components for the frontend UI │ ├── pages/ # Separate pages for Patients and Guides │ ├── chatbot/ # AI chatbot implementation │ └── services/ # API services and model integration │ ├── /model # AI model for mental health prediction ├── /data # Dataset used for AI model training │ ├── README.md # Project documentation ├── package.json # Node.js dependencies ├── .gitignore # Git ignore file 
