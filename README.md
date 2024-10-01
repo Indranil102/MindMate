@@ -16,6 +16,11 @@
 
 /mindmate │ ├── /public │ ├── index.html # Main HTML file │ └── assets/ # Images, icons, and other static resources │ ├── /src │ ├── components/ # React components for the frontend UI │ ├── pages/ # Separate pages for Patients and Guides │ ├── chatbot/ # AI chatbot implementation │ └── services/ # API services and model integration │ ├── /model # AI model for mental health prediction ├── /data # Dataset used for AI model training │ ├── README.md # Project documentation ├── package.json # Node.js dependencies ├── .gitignore # Git ignore file 
 
+## Figma Design
+
+You can view the design prototype of **MindMate** on Figma:
+
+[MindMate Figma Design](https://www.figma.com/design/hffU0ZrNGdSfobCaTnxKh5/MindMate?node-id=0-1&t=uFcNB1S9lLK1nwBk-1)
 
 ## Technologies Used
 
@@ -102,4 +107,3 @@ We welcome contributions! Please follow these steps:
 
 We developed this project as part of the **SCROLL HACK Hackathon**, with the goal of creating a tool for social good.
 
--
